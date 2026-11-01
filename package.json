@@ -1,0 +1,9 @@
+{
+  "name": "staff-security-bot",
+  "version": "1.0.0",
+  "description": "Discord staff management, V2 message builder, server configuration and security bot",
+  "main": "index.js",
+  "scripts": {"start": "node index.js"},
+  "engines": {"node": ">=20.0.0"},
+  "dependencies": {"discord.js": "^14.21.0"}
+}
